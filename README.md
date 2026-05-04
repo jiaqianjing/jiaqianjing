@@ -28,6 +28,9 @@
 
 ## Projects
 
+- [GemStar](https://github.com/JustHappyLab/GemStar)  
+  AI-driven automated quantitative research framework. FSM-driven multi-agent daily pipeline: data quality → factor monitoring → strategy generation → backtesting → review
+
 - [ComfyUI-MidjourneyHub](https://github.com/jiaqianjing/ComfyUI-MidjourneyHub)  
   Brings several commercial image generation tools into `ComfyUI`
 
